@@ -191,7 +191,7 @@ async def mentionall(client, message):
     except:
         pass
 
-@app.on_message(filters.command(["cancel", "stop"]))
+@app.on_message(filters.command(["ecancel", "cancel"]))
 async def cancel_spam(client, message):
     if not message.chat.id in spam_chats:
         return await message.reply("No active mention process is started by me.")
