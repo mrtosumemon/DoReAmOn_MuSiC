@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/f200e6a16f314fcd273b3.jpg">
+  <img src="https://graph.org/file/929a2ae1bba42e733aae6.jpg">
 </p>
 
 <p align="center">
@@ -81,4 +81,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://github.com/TheHamkerCat"> <img src="https://img.shields.io/badge/TheHamkerCat-black?style=for-the-badge&logo=github" alt="TheHamkerCat" /> </a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ɢᴏᴅғᴀᴛʜᴇʀ](https://github.com/mrtosumemon) ғᴏʀ [ɪɴᴄʀɪᴄɪʙʟᴇ x ᴍᴜsɪᴄ](https://github.com/mrtosumemon/INCRICIBLE_MUSIC)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ɢᴏᴅғᴀᴛʜᴇʀ](https://github.com/mrtosumemon) ғᴏʀ [ᴍᴏᴏɴ x ᴍᴜsɪᴄ](https://github.com/mrtosumemon/INCRICIBLE_MUSIC)_ </b>
