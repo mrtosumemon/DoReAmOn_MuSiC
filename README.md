@@ -3,15 +3,15 @@
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/929a2ae1bba42e733aae6.jpg">
+  <img src="https://telegra.ph/file/705189211f1cc3b39ec1c.jpg">
 </p>
 
 <p align="center">
-<a href="https://github.com/mrtosumemon/DOREAMON_MUSIC/stargazers"><img src="https://img.shields.io/github/stars/mrtosumemon/DOREAMON_MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/mrtosumemon/DOREAMON_MUSIC/network/members"> <img src="https://img.shields.io/github/forks/mrtosumemon/DOREAMON_MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/mrsarkarmusic/misty_MUSIC/stargazers"><img src="https://img.shields.io/github/stars/mrtosumemon/DOREAMON_MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/mrsarkarmusic/MISTY_MUSIC/network/members"> <img src="https://img.shields.io/github/forks/mrtosumemon/DOREAMON_MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/mrtosumemon/DOREAMON_MUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/mrtosumemon/DOREAMON_Music/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/mrtosumemon/DOREAMON_Music?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/mrSARKARMUSIC/MISTY_Music/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/mrtosumemon/DOREAMON_Music?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/mrtosumemon/GODFATHERMUSIVOP/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/mrSARKAR/GODFATHERMUSIVOP/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
